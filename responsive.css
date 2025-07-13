@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1140px){
     .background {
-    background: rgba(0, 0, 0, 0.7) url("../img/Channel Phone.jpg");
+    background: rgba(0, 0, 0, 0.7) url("Channel Phone.jpg");
     background-size: cover;
     background-blend-mode: darken;
     }
