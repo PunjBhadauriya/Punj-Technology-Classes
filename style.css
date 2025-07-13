@@ -68,7 +68,7 @@ html {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7) url("../img/Channel on High End PC.jpg");
+    background: rgba(0, 0, 0, 0.7) url("Channel on High End PC.jpg");
     background-size: cover;
     background-blend-mode: darken;
 }
