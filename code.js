@@ -1,7 +1,7 @@
 burger = document.querySelector('.burger')
 navbar = document.querySelector('.navbar')
 navList = document.querySelector('.nav-list')
-rightnav = document.querySelector('.rightnav')
+//rightnav = document.querySelector('.rightnav')
 
 
 burger = addEventListener('click', ()=>{
